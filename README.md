@@ -1,4 +1,4 @@
-# Project Name
+# 3DImageSlider
 
 ## Description
 "This project is a modified version of [slider_3](https://github.com/HoanghoDev/slider_3) by [HoanghoDev](https://github.com/HoanghoDev)."
